@@ -117,4 +117,4 @@ Streamlit – Interactive web app for predictions
 How to run the project?
 pip install -r requirements.txt
 streamlit run app.py
-Can I contribute? Yes! Fork the repo, make your changes, and raise a pull request. All contributions are welcome 🚀
+Can I contribute? Yes! Fork the repo, make your changes, and raise a pull request. All contributions are welcome 🚀.
