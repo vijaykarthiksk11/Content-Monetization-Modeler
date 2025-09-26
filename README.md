@@ -19,7 +19,7 @@ key features
 documentation
 dashboard
 project structure
-faqs
+faqs.
 
 Goal
 -
@@ -56,7 +56,7 @@ Scikit-learn – Machine learning models, preprocessing, and evaluation
 XGBoost – Gradient boosting model for regression tasks
 Matplotlib / Seaborn – Data visualization and statistical plots
 Streamlit – Interactive web application for model deployment
-Pickle – Model serialization and saving pipelines
+Pickle – Model serialization and saving pipelines.
 
 Key Features
 -
@@ -117,4 +117,4 @@ Streamlit – Interactive web app for predictions
 How to run the project?
 pip install -r requirements.txt
 streamlit run app.py
-Can I contribute? Yes! Fork the repo, make your changes, and raise a pull request. All contributions are welcome 🚀.
+Can I contribute? Yes! Fork the repo, make your changes, and raise a pull request. All contributions are welcome 🚀
